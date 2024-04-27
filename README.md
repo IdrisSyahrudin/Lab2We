@@ -15,7 +15,7 @@ Hasil:
 
 Hasil:
 
-![firefox_0VMEfGiL2X](https://github.com/steprtm/lab2web/assets/129705802/d6d3eb86-288a-41c3-989b-5b4c092419a8)
+![Screenshot (215)](https://github.com/IdrisSyahrudin/Lab2We/assets/129921422/fa43b29b-23e8-4079-8bae-ef23191bd847)
 
 ## Form Input
 ![Code_8pCIUg5wi3](https://github.com/steprtm/lab2web/assets/129705802/a06d70eb-ac57-499b-aa90-8adaeca21364)
@@ -31,7 +31,8 @@ Hasil:
 Hasil:
 
 
-![firefox_63o6S2kBfl](https://github.com/steprtm/lab2web/assets/129705802/3bd23f04-ca4a-4b83-95c5-ce2ec4feac7e)
+![Screenshot (213)](https://github.com/IdrisSyahrudin/Lab2We/assets/129921422/d116d645-397f-4a81-b617-ff439eb5c607)
+
 
 ## Penjelasan
 1. Struktur HTML
