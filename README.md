@@ -22,8 +22,8 @@ Hasil:
 
 Hasil:
 
+![Screenshot (216)](https://github.com/IdrisSyahrudin/Lab2We/assets/129921422/7940f7a4-5e9d-460b-9687-7850f7e353dd)
 
-![firefox_TNTK7EePzL](https://github.com/steprtm/lab2web/assets/129705802/9b5b897b-8fd0-452d-9045-ecc7f4f7f618)
 
 ## Tugas
 ![Code_k4QL8UveeF](https://github.com/steprtm/lab2web/assets/129705802/35797c5a-5da3-4716-b973-01370e6899d4)
