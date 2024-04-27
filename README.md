@@ -11,7 +11,7 @@ Hasil:
 ![firefox_NLBlF7Z6rR](https://github.com/steprtm/lab2web/assets/129705802/bc3adfcf-c6b5-44bd-85bc-a0cf7da6cf47)
 
 ## Menggunakan Variable
-![Code_rKnoeCI3Ot](https://github.com/steprtm/lab2web/assets/129705802/5c276778-af77-4a4d-b300-a99f7a3b7e24)
+![Screenshot (217)](https://github.com/IdrisSyahrudin/Lab2Web/assets/129921422/99d2c3d8-9ae1-4377-b5ff-20a607cf940b)
 
 Hasil:
 
