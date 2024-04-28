@@ -1,5 +1,10 @@
 # lab2web
-Idris Syahrudin 312210467 TI.22.A5
+
+Nama    : Idris Syahrudin
+
+Nim     : 312210467
+
+Kls     : TI.22.A5
 
 ## Belajar PHP Dasar
 ![Code_EcuixSMOoV](https://github.com/steprtm/lab2web/assets/129705802/a5dded82-7a92-49bc-9d3e-fb7a32bd45b3)
